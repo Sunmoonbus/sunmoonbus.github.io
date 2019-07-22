@@ -1,4 +1,4 @@
-#  선문 대학교 셔틀 버스 웹 사이트
+#  선문 대학교 카카오 플러스 친구 셔틀 버스 웹 사이트
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-freelancer/master/LICENSE)
 ---
@@ -11,4 +11,4 @@
 
 ## Copyright 및 License
 
-Copyright 22018 2018 Kakaotalk Plus Friend SunMoon University Shuttle Bus. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+Copyright 2018 Kakaotalk Plus Friend SunMoon University Shuttle Bus. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
